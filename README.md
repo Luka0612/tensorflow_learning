@@ -10,3 +10,8 @@
 2、NLP<br>
 3、图像<br>
 4、语音<br>
+5、TensorFlow serving<br>
+6、Tensorboard<br>
+7、迁移学习<br>
+8、GAN<br>
+9、其他（model save，build，as_graph_def...）
