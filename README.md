@@ -7,6 +7,7 @@
 
 1、基础<br>
 [激活函数<br>](https://github.com/Luka0612/tensorflow_learning/blob/master/basic/activation_function.ipynb)
+[常量、变量、数据类型<br>]()
 2、NLP<br>
 3、图像<br>
 4、语音<br>
