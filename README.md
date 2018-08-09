@@ -3,22 +3,23 @@
 积累对TensorFlow的学习
 
 基于1.8
-目录
+## 目录
 
-1、基础<br>
+1. 基础<br>
 [激活函数<br>](https://github.com/Luka0612/tensorflow_learning/blob/master/basic/activation_function.ipynb)
 [常量、变量、数据类型<br>](https://github.com/Luka0612/tensorflow_learning/blob/master/basic/constant_variable.ipynb)
 [tensorboard<br>](https://github.com/Luka0612/tensorflow_learning/blob/master/basic/tensor_board.py)
 [变量管理<br>](https://github.com/Luka0612/tensorflow_learning/blob/master/basic/get_tensor_or_operation.py)
-2、NLP<br>
-3、图像<br>
-4、语音<br>
-5、迁移学习<br>
-6、GAN<br>
-7、TensorFlow serving<br>
+2. NLP<br>
+3. 图像<br>
+4. 语音<br>
+5. 迁移学习<br>
+6. GAN<br>
+7. 强化学习<br>
+8. TensorFlow serving<br>
 [安装<br>](https://github.com/Luka0612/tensorflow_learning/blob/master/serving/install.sh)
 [serving辅助工具<br>](https://github.com/Luka0612/tensorflow_learning/blob/master/serving/auxiliary.py)
-8、其他
+9. 其他
 
 
 ## 推荐阅读
