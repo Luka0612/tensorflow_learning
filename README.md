@@ -16,6 +16,7 @@
 6、GAN<br>
 7、TensorFlow serving<br>
 [安装<br>](https://github.com/Luka0612/tensorflow_learning/blob/master/serving/install.sh)
+[serving辅助工具<br>](https://github.com/Luka0612/tensorflow_learning/blob/master/serving/auxiliary.py)
 8、其他（model save，build，as_graph_def...）
 
 
