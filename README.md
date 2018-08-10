@@ -26,7 +26,8 @@
 8. TensorFlow serving<br>
 [安装<br>](https://github.com/Luka0612/tensorflow_learning/blob/master/serving/install.sh)
 [serving辅助工具<br>](https://github.com/Luka0612/tensorflow_learning/blob/master/serving/auxiliary.py)
-9. 其他
+9. 其他<br>
+[HyperOpt<br>](https://github.com/Luka0612/tensorflow_learning/blob/master/other/HyperOpt.py)
 
 
 ## 推荐阅读
