@@ -1,6 +1,7 @@
 # coding: utf-8
 """
 https://blog.csdn.net/u010223750/article/details/71079036
+其last_states将重复第13步的last_states直至第20步，而outputs中超过13步的结果将会被置零
 """
 import tensorflow as tf
 import numpy as np
