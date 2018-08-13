@@ -6,6 +6,7 @@ https://www.jianshu.com/p/83443b2baf27
 
 attention
 https://zhuanlan.zhihu.com/p/27769667
+https://www.jianshu.com/p/50584e5e0e6a
 源码解读
 https://github.com/applenob/RNN-for-Joint-NLU/blob/master/seq2seq_intent_detection_slot_filling.ipynb
 借鉴：Hack my_helper
