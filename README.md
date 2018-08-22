@@ -24,7 +24,7 @@
 [CNN图像分类<br>](https://github.com/Luka0612/tensorflow_learning/blob/master/image/cnn_image.py)
 4. 语音<br>
 5. 迁移学习<br>
-[inception_3迁移学习<br>](https://github.com/Luka0612/tensorflow_learning/blob/master/migration_learning/inception_v3.py)
+[inception_V3迁移学习<br>](https://github.com/Luka0612/tensorflow_learning/blob/master/migration_learning/inception_v3.py)
 6. GAN<br>
 7. 强化学习<br>
 8. TensorFlow serving<br>
