@@ -18,7 +18,9 @@
 [异步序列生成<br>](https://github.com/Luka0612/tensorflow_learning/blob/master/nlp/encode_decode_attention.py)
 [coverage_attention<br>](https://github.com/Luka0612/tensorflow_learning/blob/master/nlp/coverage_attention.py)
 [transform<br>](https://github.com/Luka0612/tensorflow_learning/blob/master/nlp/transform.py)
+[CNN文本分类<br>](https://github.com/Luka0612/tensorflow_learning/blob/master/nlp/cnn_text.py)
 3. 图像<br>
+[CNN图像分类<br>](https://github.com/Luka0612/tensorflow_learning/blob/master/image/cnn_image.py)
 4. 语音<br>
 5. 迁移学习<br>
 6. GAN<br>
