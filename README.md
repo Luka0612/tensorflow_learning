@@ -23,6 +23,7 @@
 3. 图像<br>
 [CNN图像分类<br>](https://github.com/Luka0612/tensorflow_learning/blob/master/image/cnn_image.py)
 4. 语音<br>
+[特征提取<br>](https://github.com/Luka0612/tensorflow_learning/blob/master/voice/feature.py)
 5. 迁移学习<br>
 [inception_V3迁移学习<br>](https://github.com/Luka0612/tensorflow_learning/blob/master/migration_learning/inception_v3.py)
 6. GAN<br>
